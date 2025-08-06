@@ -268,7 +268,7 @@ class StudentManager {
     }
 }
 
-public class StudentManagementSystem {
+public class task2 {
     public static void main(String[] args) {
         StudentManager manager = new StudentManager();
         manager.run();
